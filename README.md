@@ -44,6 +44,6 @@ I am working on a v2 update that will massive changes.<br>
 -Multiple types of things to send (embeds, simple text, and more)<br/>
 -Security features<br/>
 
-<h4>Stay tuned for the massive v2 update!</h4>
+<h3>Stay tuned for the massive v2 update!</h3>
 
 </html>
