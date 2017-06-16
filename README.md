@@ -33,6 +33,17 @@ npm start
 ```
 localhost:8000
 ```
-You are now ready to use your webhook to send messages!
+You are now ready to use your webhook to send messages!<br/><br/>
+
+<h2>Looking for something more?</h2><br/><br/>
+
+I am working on a v2 update that will massive changes.<br>
+<b>Planned changes:</b><br/><br/>
+-Landing page with navigation and customization<br/>
+-Easier ways of setting things<br/>
+-Multiple types of things to send (embeds, simple text, and more)<br/>
+-Security features<br/>
+
+<h4>Stay tuned for the massive v2 update!</h4>
 
 </html>
