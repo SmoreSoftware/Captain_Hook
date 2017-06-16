@@ -1,0 +1,40 @@
+<html>
+
+<head>
+  <title>Webhook Post</title>
+
+  <style>
+    div {
+      padding-top: 55px;
+    }
+
+    input {
+      width: 1000px;
+    }
+  </style>
+</head>
+
+<body>
+  <div align="center">
+    <form method="POST" action="/webhook">
+      <input type="text" name="hookName" placeholder="Webhook Username" /><br/><br/>
+      <input type="test" name="hookAvatar" placeholder="Webhook Avatar (as a link)" /><br/><br/>
+      <input type="text" name="color" placeholder="Color (e.g. #fff000)" /><br/><br/>
+      <input type="text" name="author" placeholder="Author Name" /><br/><br/>
+      <input type="text" name="authorIcon" placeholder="Author Icon (as a link)" /><br/><br/>
+      <input type="text" name="title" placeholder="Title" /><br/><br/>
+      <input type="text" name="pretext" placeholder="First text field" /><br/><br/>
+      <input type="text" name="text" placeholder="Second text field" /><br/><br/>
+      <input type="text" name="title1" placeholder="Field 1 Title" /><br/><br/>
+      <input type="text" name="value1" placeholder="Field 1 Value" /><br/><br/>
+      <input type="text" name="short1" placeholder="Field 1 Short (true/false)" /><br/><br/>
+      <input type="text" name="title2" placeholder="Field 2 Title" /><br/><br/>
+      <input type="text" name="value2" placeholder="Field 2 Value" /><br/><br/>
+      <input type="text" name="short2" placeholder="Field 2 Short (true/false)" /><br/><br/>
+      <input type="text" name="footer" placeholder="Footer" /><br/><br/>
+      <input type="submit" name="submit" value="Send Message" /><br/><br/>
+    </form>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,25 @@
+{
+  "name": "webhook",
+  "version": "1.0.0",
+  "description": "A simple package to send messages to a Discord Webhook.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "request": "^2.76.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmoreSoftware/Captain_Hook.git"
+  },
+  "author": "TJDoesCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmoreSoftware/Captain_Hook/issues"
+  },
+  "homepage": "https://github.com/SmoreSoftware/Captain_Hook#readme"
+}
