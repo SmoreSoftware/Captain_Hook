@@ -3,7 +3,7 @@
 <h1>Captain Hook</h1>
 <h3>Ever wanted to screw around with webhooks? Now you can!</h3>
 
-<b>Instillation</b><br/>
+<b>Instillation</b><br/><br/>
 -Clone or download the repository.
 -Create a webhook on your desired server.
 -Create a config.json. The content of it should be this:
@@ -24,7 +24,7 @@ npm install
 ```
 When that finishes running, you are installed and ready to go.
 
-<b>Usage</b><br/>
+<b>Usage</b><br/><br/>
 -Run the following command:
 ```
 npm start
