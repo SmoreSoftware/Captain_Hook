@@ -60,10 +60,10 @@ How to fill in fields appropriately:<br/>
 The "short" option on Fields 1 and 2 determines how much space the fields should take up.<br/>
 If you want Fields 1 and 2 to show up next to each other, set "short" to true for both of them.<br/>
 Below are some examples of messages with different settings for the value of "short".<br/>
-[Both true](https://cdn.discordapp.com/attachments/324656649665118209/325425626851049484/unknown.png)
-[Neither true](https://cdn.discordapp.com/attachments/324656649665118209/325425677216251904/unknown.png)
-[Field 1 true, Field 2 false](https://cdn.discordapp.com/attachments/324656649665118209/325434641312120833/unknown.png)
-[Field 1 false, Field 2 true](https://cdn.discordapp.com/attachments/324656649665118209/325434680436588555/unknown.png)
+[Both true](https://cdn.discordapp.com/attachments/324656649665118209/325425626851049484/unknown.png)<br/>
+[Neither true](https://cdn.discordapp.com/attachments/324656649665118209/325425677216251904/unknown.png)<br/>
+[Field 1 true, Field 2 false](https://cdn.discordapp.com/attachments/324656649665118209/325434641312120833/unknown.png)<br/>
+[Field 1 false, Field 2 true](https://cdn.discordapp.com/attachments/324656649665118209/325434680436588555/unknown.png)<br/>
 
 <h2>Looking for something more?</h2><br/><br/>
 
